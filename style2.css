@@ -152,6 +152,9 @@ font-weight: 800;
     color: white;
     
 }
+#btn3:active{
+    scale: 0.95;
+}
    #end{
     width: 92%;
     height: 300px;
