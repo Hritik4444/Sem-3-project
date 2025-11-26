@@ -123,6 +123,7 @@ border-radius: 6px;
     padding-left: 25px;
      background-color: #fff;
      border: 1px solid black;
+     border-radius: 20px;
 }
 .c1 h2{
 font-size: 28px;
@@ -188,6 +189,10 @@ font-weight: 800;
    }
    .c1:hover{
     transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.06);    
+    box-shadow: 10px 10px black;    
+   }
+    .b1:hover{
+    transform: translateY(-3px);
+    box-shadow: 10px 10px black;    
    }
    
